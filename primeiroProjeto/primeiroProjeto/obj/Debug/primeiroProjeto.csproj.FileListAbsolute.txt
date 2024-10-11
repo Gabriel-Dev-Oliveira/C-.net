@@ -1,0 +1,7 @@
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.exe.config
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.exe
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.pdb
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.exe
+C:\Temp\ws-vs2019\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.pdb

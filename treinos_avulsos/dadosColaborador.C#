@@ -1,0 +1,28 @@
+using System.Globalization;
+using System;
+
+public class Programa
+{
+    public static void Main(string[] args)
+    {
+       CultureInfo CI = CultureInfo.InvariantCulture;
+       
+       // programa onde recebe do usuario informações do colaborador e informa posteriormente
+       
+       string nome;
+       double salario;
+       int idade;
+       
+       
+       Console.Write("Digite o nome do colaborador: ");
+       nome = Console.ReadLine();
+       Console.Write("Digite o salário do colaborador: ");
+       salario = double.Parse(Console.ReadLine());
+       Console.Write("Digite a idade do colaborador: ");
+       idade = int.Parse(Console.ReadLine());
+       
+       
+       Console.Write("O colaborador "+ nome + ", idade: "+ idade + ", recebe: "+ salario);
+       
+    }
+}

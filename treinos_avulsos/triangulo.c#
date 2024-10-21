@@ -1,0 +1,23 @@
+using System;
+
+public class Programa
+{
+    public static void Main(string[] args)
+    {
+       // Calculo de um triangulo trapezio
+        
+        
+        double b1, b2, area, h;
+        
+        Console.WriteLine("Digite o valor da primeira base: ");
+        b1 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Digite o valor da segunda base: ");
+        b2 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Digite o valor do altura valor: ");
+        h = double.Parse(Console.ReadLine());
+        
+        
+        area = (b1 + b2) / 2.0 * h;
+        Console.WriteLine(area); 
+    }
+}

@@ -22,7 +22,7 @@ public class Programa
        idade = int.Parse(Console.ReadLine());
        
        
-       Console.Write("O colaborador "+ nome + ", idade: "+ idade + ", recebe: "+ salario);
+       Console.Write("O colaborador "+ nome + ", idade: "+ idade + ", recebe: "+ salario.ToString("F2", CI));
        
     }
 }
